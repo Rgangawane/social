@@ -1,2 +1,1 @@
-# social
-social
+ai-prompt-toolkit
